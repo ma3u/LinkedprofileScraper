@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "FZ+tYQN+bm3wK3ReKQ/VhgssUN7W5srz8gXgP7QKyV1pG33wEos6x6pGdtpm8KDYTRZaliobooiC1dtz7OoFlA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mabuchho\\source\\repos\\LinkedInScraper\\LinkedInScraper\\LinkedInScraper.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mabuchho\\.nuget\\packages\\htmlagilitypack\\1.11.30\\htmlagilitypack.1.11.30.nupkg.sha512"
+  ],
+  "logs": []
+}
